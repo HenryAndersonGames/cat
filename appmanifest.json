@@ -1,0 +1,18 @@
+{
+	"name": "CatVsTitans",
+	"short_name": "CatVsTitans",
+	"description": "Cats Arena 0.0.1",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "50x50",
+			"type": "image/png"
+		}
+	],
+	"screenshots": [],
+	"theme_color": "#000000"
+}
